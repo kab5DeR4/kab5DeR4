@@ -48,9 +48,6 @@ Building practical software at the intersection of **engineering, security, auto
 
 </details>
 
-<details>
-<summary><strong>💻 Technical Stack</strong></summary>
-
 <br>
 <details>
 <summary><strong>💻 Technical Stack</strong></summary>
@@ -72,7 +69,6 @@ Building practical software at the intersection of **engineering, security, auto
 **🔭 Exploring**  
 `AI/ML` `LLM Systems` `Security Automation` `Policy-as-Code` `Cloud Security`
 
-</details>
 </details>
 
 <details>
