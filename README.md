@@ -47,12 +47,10 @@ Building practical software at the intersection of **engineering, security, auto
 | 🗺️ **[Mumbai Booking](https://github.com/kab5DeR4/Mumbai-)**         | Location & booking application         | Node.js · Express             |
 
 </details>
-<br>
 <details>
 <summary><strong>💻 Technical Stack</strong></summary>
-
 <br>
-
+  
 ### 🧠 Languages
 
 <p align="left">
@@ -106,7 +104,6 @@ Building practical software at the intersection of **engineering, security, auto
 `AI/ML` · `LLM Systems` · `Security Automation` · `Policy-as-Code` · `Cloud Security`
 
 </details>
-
 
 <details>
 <summary><strong>🧠 Areas I'm Interested In</strong></summary>
