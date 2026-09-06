@@ -52,27 +52,27 @@ Building practical software at the intersection of **engineering, security, auto
 <summary><strong>💻 Technical Stack</strong></summary>
 
 <br>
+<details>
+<summary><strong>💻 Technical Stack</strong></summary>
 
-**Languages**
+<br>
 
+**🧠 Languages**  
 `Python` `JavaScript` `TypeScript` `Java` `Dart`
 
-**Frontend**
-
+**🎨 Frontend**  
 `React` `Next.js` `Flutter` `Tailwind CSS`
 
-**Backend**
-
+**⚙️ Backend**  
 `FastAPI` `Node.js` `Express`
 
-**Databases**
-
+**🗄️ Databases**  
 `PostgreSQL` `MongoDB` `SQLite`
 
-**Exploring**
-
+**🔭 Exploring**  
 `AI/ML` `LLM Systems` `Security Automation` `Policy-as-Code` `Cloud Security`
 
+</details>
 </details>
 
 <details>
