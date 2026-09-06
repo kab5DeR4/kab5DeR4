@@ -159,4 +159,3 @@ I'm especially interested in the intersection of:
 ### Thanks for visiting! ⭐
 
 If you find one of my projects interesting, feel free to explore the repository, open an issue, or share your feedback.
-<img width="885" height="918" alt="image" src="https://github.com/user-attachments/assets/527ac82e-7ba2-44d7-bee0-d2d7b10bb3f5" />
